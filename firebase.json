@@ -1,0 +1,27 @@
+{ 
+    "userdetails": [{ 
+      "email": "jondoe@gmail.com", 
+      "address": "3470 bananas", 
+      "city": "san jose", 
+      "state": "california", 
+      "zipcode": "95907", 
+      "size": "M", 
+      "credit": "3478912364897", 
+      "expdate": "05/12", 
+      "cvc": "123", 
+      "zip": "95907",
+      "products": "Shirt"
+    }, { 
+        "email": "jondoe@gmail.com", 
+        "address": "110 bananas", 
+        "city": "san jose", 
+        "state": "california", 
+        "zipcode": "95907", 
+        "size": "S", 
+        "credit": "99978912364897", 
+        "expdate": "05/12", 
+        "cvc": "123", 
+        "zip": "95907",
+        "products": "products"
+    }] 
+  } 
